@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869711892811",
+    "project_id": "contatct-manager",
+    "storage_bucket": "contatct-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869711892811:android:0dbae23e17e5024e91d8ce",
+        "android_client_info": {
+          "package_name": "com.example.contatctmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPaUFL6xLxP0wGNnHE2uzvUadGQPVMklQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
